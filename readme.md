@@ -4,6 +4,7 @@
 <p align="justify">
 CPP-DIP is a multi-objective coverage path planning framework designed for Micro Air Vehicles (MAVs) to efficiently navigate dispersed and irregular plantations. It leverages image-based tree detection, density-aware waypoint generation, target-based path planning, and object-based path optimization to minimize flight distance, turning angles, intersection paths, and redundant coverage.
 </p>
+
 Our paper is available on arXive now [[PDF]]().
 
 This repository contains codes of algrithoms used in this paper.
