@@ -11,7 +11,6 @@ This repository contains codes of algrithoms used in this paper.
 If you use this code in an academic context, please cite our work:
 ````
 Weijie Kuang, Ye Zhou, and Hann Woei Ho. CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations.
-(The code will be released upon publication.)
 ````
   
 ## Hardware Configuration
